@@ -1,0 +1,18 @@
+Programing Questions For Practice:-
+
+** Variables and Datatypes:-
+Create variables for your name, age, city, and favorite language, then print them.
+Create a var named marks, set it to 75, update it to 90, and print both values.
+Create one variable of each data type and print them.
+Try changing a val variable and observe the compiler error.
+Print this sentence using string interpolation:
+Create variables for your name, age, and salary, then print them.
+Convert an Int to a Double.
+Convert a Double to an Int.
+Convert a "150" string into an Int.
+Print the type of a variable using ::class.simpleName.
+Check if a variable is a String using is.
+Write a program that uses all arithmetic operators.
+Compare two numbers using ==, >, and <=.
+Use && to check if a student is 18 or older and has an ID card.
+Use the range operator to print numbers from 1 to 10.

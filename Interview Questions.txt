@@ -1,0 +1,19 @@
+Interview Questions -
+ ** Variables and DataTypes:-
+- What is a variable in Kotlin?
+- What is the difference between var and val?
+- What is type inference?
+- Why is val preferred over var?
+- What is the difference between Float and Double?
+- Why does a Float literal end with f?
+- What is the difference between Char and String?
+Difference between var and val
+Why doesn't Kotlin support implicit type conversion?
+Difference between Float and Double
+Difference between == and ===
+How do you safely convert a String to an Int?
+What is type inference?
+What is the is operator?
+What is the Elvis (?:) operator?
+What are the basic data types in Kotlin?
+What are nullable and non-nullable types?
