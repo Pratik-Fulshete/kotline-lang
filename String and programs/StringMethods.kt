@@ -1,0 +1,21 @@
+ fun main() {
+    val str = " Hello Kotlin "
+    println("Original String:$str")
+    println("Length of String:${str.length}")
+    println("Uppercase String:${str.uppercase()}")
+    println("Lowercase String:${str.lowercase()}")
+    val cleanStr = str.trim()
+    println("Trimmed String:$cleanStr")
+    println("clean Str Contains Kotlin:${cleanStr.contains("Kotlin")}")
+    println("clean Str Starts with Hello:${cleanStr.startsWith("Hello")}")
+    println("Clean Str Ends With Kotlin:${cleanStr.endsWith("Kotlin")}")
+    val replacedStr = cleanStr.replace("Kotlin","Java")
+    println("Replaced String:$replacedStr")
+    val firstword = cleanStr.substring(0,5)
+    println("First Word:$firstword")
+    val wordsParts = cleanStr.split(" ")
+    println("Words Parts:$wordsParts")
+    println("firstPart:${wordsParts[0]}")
+    println("secondPart:${wordsParts[1]}")
+    println(cleanStr.indexOf("Kotlin"))
+} 
