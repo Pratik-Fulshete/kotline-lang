@@ -16,3 +16,57 @@ Write a program that uses all arithmetic operators.
 Compare two numbers using ==, >, and <=.
 Use && to check if a student is 18 or older and has an ID card.
 Use the range operator to print numbers from 1 to 10.
+
+**String and Null safety
+evel 1 — Input/Output
+Take name as input and print it.
+Take age and print it.
+Take two numbers and print their sum.
+Take two numbers and perform all arithmetic operations.
+Take student's name and marks and print them.
+Take employee name and salary and display them.
+Take length and width and calculate rectangle area.
+Take radius and calculate circle area.
+Take Celsius and convert to Fahrenheit.
+Take three numbers and calculate their average.
+🔤 Level 2 — Strings
+Find String length.
+Print first character.
+Print last character.
+Reverse a String.
+Check whether a String is palindrome.
+Count vowels.
+Count consonants.
+Count spaces.
+Count words.
+Convert String to uppercase.
+Convert String to lowercase.
+Remove spaces.
+Replace a character.
+Check whether String contains a particular word.
+Count frequency of a character.
+🔥 Level 3 — String Templates
+Print:
+My name is Pratik and I am 22 years old.
+
+using variables.
+
+Take two numbers and print:
+The sum of 10 and 20 is 30
+
+using String templates.
+
+Take student information and generate a formatted output.
+Calculate total marks and percentage using String templates.
+Generate an employee salary summary using String templates.
+🛡️ Level 4 — Null Safety
+Create a nullable String.
+Check whether a String is null.
+Use ?. to find nullable String length.
+Use ?: to provide a default name.
+Compare behavior of ?. and !!.
+Write a program that safely prints a nullable user's name.
+Create a nullable age and safely calculate whether the person is eligible to vote.
+Use let with a nullable String.
+Take optional user input and provide a default value.
+Create a nullable student record and safely display its information.

@@ -13,7 +13,32 @@ Difference between Float and Double
 Difference between == and ===
 How do you safely convert a String to an Int?
 What is type inference?
+** Operator:-
 What is the is operator?
 What is the Elvis (?:) operator?
 What are the basic data types in Kotlin?
 What are nullable and non-nullable types?
+
+** String and null safety:-
+What is readln() in Kotlin?
+How do you take integer input in Kotlin?
+Difference between print() and println()?
+What is a String in Kotlin?
+How do you find String length?
+How do you access a character from a String?
+What is String concatenation?
+What are escape sequences?
+What is a String template?
+Difference between $variable and ${expression}?
+Null Safety
+What is null safety in Kotlin?
+What is a nullable type?
+Why do we use ? after a type?
+What is the safe-call operator ?.?
+What is the Elvis operator ?:?
+What is the not-null assertion operator !!?
+Difference between ?. and !!?
+What happens when you use !! on null?
+How do you check whether a variable is null?
+What is let used for with nullable values?
+
